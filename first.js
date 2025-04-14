@@ -1,4 +1,4 @@
-let arr = [1,2,3,4];
+let arr = ["pune" , "delhi" , "mumbi" ,];
 
 arr.forEach((val) => {
     console.log(val);
